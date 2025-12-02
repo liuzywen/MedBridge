@@ -1,4 +1,4 @@
-# MedBridge
+# Text-Driven Medical Image Segmentation with LLM Semantic Bridge and LLM Prompt Bridge 
 The paper has been accepted by SPL.
 # Abstract
 Text-driven medical image segmentation aims to accurately
