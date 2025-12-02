@@ -19,6 +19,13 @@ and medical consensus knowledge. Experimental results show the
 predominant performance due to LLM participation.
 ![Main](main.png)
 
+# Code
+
 通过网盘分享的文件：MedBridge
 链接: https://pan.baidu.com/s/1s3cNTa31tXtZOzu3ePuvFw 提取码: kuv9 
+
+# Cite
+
+# Concact
+liuzywen@ahu.edu.cn
 
